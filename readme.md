@@ -36,3 +36,5 @@ Atualmente estou buscando oportunidades como desenvolvedor júnior, e em projeto
 - Express.js
 - Sequelize
 
+![Alex Silva GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexsilva11&show_icons=true)
+
