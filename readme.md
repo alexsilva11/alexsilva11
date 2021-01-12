@@ -16,7 +16,7 @@ _Seja bem vindo ao meu GitHub._
 ----
 
 <p>
-Sou Alex, tenho 24 anos, e sou desenvolvedor Full Stack. Comecei a desenvolver há cerca de um ano, e estou em transição de carreira para ser desenvolvedor.
+Sou Alex, tenho 25 anos, e sou desenvolvedor Full Stack. Comecei a desenvolver há cerca de um ano, e estou em transição de carreira para ser desenvolvedor.
 Aqui tenho os meus projetos desenvolvidos nos cursos em que participei e também alguns projetos pessoais. Fique à vontade para clonar os repositórios e testá-los,
 além de me dar o Feedback sobre como melhorá-los ou melhorar minhas habilidades.<br/>
 Atualmente estou buscando oportunidades como desenvolvedor júnior, e em projetos freelancer.
