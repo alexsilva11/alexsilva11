@@ -28,13 +28,11 @@ Atualmente estou buscando oportunidades como desenvolvedor júnior, e em projeto
 - <img align="left" alt="HTML" width="22px" src="https://simpleicons.org/icons/html5.svg"/> HTML5
 - <img align="left" alt="CSS" width="22px" src="https://simpleicons.org/icons/css3.svg"/> CSS3
 - <img align="left" alt="JavaScript" width="22px" src="https://simpleicons.org/icons/javascript.svg"/> JavaScript
+- <img align="left" alt="Typescript" width="22px" src="https://simpleicons.org/icons/typescript.svg"/> TypeScript
 - <img align="left" alt="MySql" width="22px" src="https://simpleicons.org/icons/mysql.svg"/> MySql
 - <img align="left" alt="Node" width="22px" src="https://simpleicons.org/icons/nodedotjs.svg"/> Node.js
 - <img align="left" alt="React" width="22px" src="https://simpleicons.org/icons/react.svg"/> React
 - <img align="left" alt="React Native" width="22px" src="https://simpleicons.org/icons/react.svg"/> React Native
-- <img align="left" alt="Bootstrap" width="22px" src="https://simpleicons.org/icons/bootstrap.svg"/> Bootstrap
-- Express.js
-- Sequelize
 
 ![Alex Silva GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexsilva11&show_icons=true)
 
