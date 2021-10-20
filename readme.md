@@ -16,10 +16,10 @@ _Seja bem vindo ao meu GitHub._
 ----
 
 <p>
-Sou Alex, tenho 25 anos, e sou desenvolvedor Full Stack. Comecei a desenvolver há cerca de um ano, e estou em transição de carreira para ser desenvolvedor.
+Sou Alex, tenho 26 anos, e sou desenvolvedor Full Stack. Comecei a desenvolver há cerca de 2 anos.
 Aqui tenho os meus projetos desenvolvidos nos cursos em que participei e também alguns projetos pessoais. Fique à vontade para clonar os repositórios e testá-los,
 além de me dar o Feedback sobre como melhorá-los ou melhorar minhas habilidades.<br/>
-Atualmente estou buscando oportunidades como desenvolvedor júnior, e em projetos freelancer.
+Atualmente estou buscando oportunidades em projetos freelancer.
 </p>
 
 ----
@@ -32,6 +32,7 @@ Atualmente estou buscando oportunidades como desenvolvedor júnior, e em projeto
 - <img align="left" alt="MySql" width="22px" src="https://simpleicons.org/icons/mysql.svg"/> MySql
 - <img align="left" alt="Node" width="22px" src="https://simpleicons.org/icons/nodedotjs.svg"/> Node.js
 - <img align="left" alt="React" width="22px" src="https://simpleicons.org/icons/react.svg"/> React
+- <img align="left" alt="Next" width="22px" src="https://simpleicons.org/icons/nextdotjs.svg"/> React
 - <img align="left" alt="React Native" width="22px" src="https://simpleicons.org/icons/react.svg"/> React Native
 
 ![Alex Silva GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexsilva11&show_icons=true)
