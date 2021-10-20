@@ -32,7 +32,7 @@ Atualmente estou buscando oportunidades em projetos freelancer.
 - <img align="left" alt="MySql" width="22px" src="https://simpleicons.org/icons/mysql.svg"/> MySql
 - <img align="left" alt="Node" width="22px" src="https://simpleicons.org/icons/nodedotjs.svg"/> Node.js
 - <img align="left" alt="React" width="22px" src="https://simpleicons.org/icons/react.svg"/> React
-- <img align="left" alt="Next" width="22px" src="https://simpleicons.org/icons/nextdotjs.svg"/> React
+- <img align="left" alt="Next" width="22px" src="https://simpleicons.org/icons/nextdotjs.svg"/> Next.js
 - <img align="left" alt="React Native" width="22px" src="https://simpleicons.org/icons/react.svg"/> React Native
 
 ![Alex Silva GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexsilva11&show_icons=true)
